@@ -4,10 +4,6 @@ crawlergo-to-xray，可以把0Kee-Team crawlergo爬虫爬取的链接推送给�
 
 
 
-**本工具仅供学习交流，请勿用于非法用途，如作他用所承受的法律责任一概与作者无关（下载使用即代表你同意上述观点）。如果觉得对你有帮助，请给我个star鼓励一下。**
-
-
-
 **操作步骤（以ubuntu 64位操作系统为例）**
 
 **一、运行xray可执行文件生成如下文件并配置**
@@ -32,6 +28,12 @@ crawlergo-to-xray，可以把0Kee-Team crawlergo爬虫爬取的链接推送给�
 
 1.  nohup python3 crawlergo.py  >   crawlergo.log 2>&1 &
 2.  tail -f crawlergo.log
+
+
+
+**使用声明：**
+
+本工具仅供学习交流，请勿用于非法用途，如作他用所承受的法律责任一概与作者无关。
 
 
 
